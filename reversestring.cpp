@@ -1,3 +1,7 @@
+/* reverse a string interview question
+example- hello world;
+output - world hello;
+*/
 #include<iostream>
 #include<string.h>
 using namespace std;
