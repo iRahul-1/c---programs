@@ -1,3 +1,4 @@
+//simple oops code containing copy constructor.
 #include <iostream>
 using namespace std;
 class fraction {
